@@ -56,7 +56,7 @@ Todoist follows the MVC (Model-View-Controller) architectural pattern:
 
 ## Contributing
 
-If you would like to contribute to this project or report issues, please open a new issue or a pull request. We welcome your contributions!
+If you would like to contribute to this project or report issues, please open a new issue or a pull request. Your contributions are welcome!
 
 ## License
 
